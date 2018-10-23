@@ -19,4 +19,4 @@ this way you would see the course materials in your workdir when jupyter noteboo
 
 There may be more changes as the course proceeds for different paths like for weights etc, we will update if required.
 
-For set up and docker build details follow @Kai 's tookbox readme.
+For set up and docker build details follow @Kai 's toolbox in the link above.
